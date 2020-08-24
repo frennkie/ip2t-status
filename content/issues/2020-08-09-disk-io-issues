@@ -7,9 +7,6 @@ resolvedWhen:
 severity: disrupted
 affected:
   - API
-  - Shop API
-  - Shop Site
-  - Invoices
 section: issue
 ---
 
