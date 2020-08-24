@@ -7,7 +7,7 @@ resolvedWhen:
 severity: notice
 affected:
   - Shop Website
-section: post
+section: issue
 ---
 
 Currently the main IP2TOR website is not yet implemented. It can be used to
