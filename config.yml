@@ -122,7 +122,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Central Services
-      description: The main services need to make it work.
+      description: The main services need to make IP2TOR work.
       closed: false
     - name: IP2TOR Bridge Hosts
 
@@ -262,7 +262,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
+  brand: "#030233"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
