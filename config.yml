@@ -229,7 +229,9 @@ params:
   #    link: https://example.com
 
   customTabs:
-    - name: IP2TOR
+    - name: About
+      link: pages/about/
+    - name: IP2TOR Site
       link: https://ip2tor.fulmo.org
 
   # Disable complex server-side
